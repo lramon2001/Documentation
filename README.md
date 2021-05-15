@@ -1,6 +1,6 @@
 # docOO
 
-## Requirements / R
+## Requirements / Requerimentos
 - [ ] The Class Diagram describes the entire application / O Diagrama de classes descreva toda a aplicação ;
 - [ ] The class diagram reflects the structure of the project / O diagrama de classes reflete a estrutura do projeto ;
 - [ ] Vehicle registers, owners and access records work properly / Cadastros de veículos, proprietários e registro de acessos funcionam adequadamente ;
